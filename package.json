@@ -1,13 +1,13 @@
 {
-  "name": "@arkecosystem/desktop-wallet-theme-template",
+  "name": "@doubled1c3/youtube-demo-theme",
   "version": "0.0.1",
-  "description": "Desktop Wallet Theme Template",
+  "description": "Demo theme for YouTube video on creating and publishing themes using NPM",
   "main": "src/index.js",
-  "author": "Author Name",
+  "author": "Justin Renken",
   "license": "MIT",
   "desktop-wallet": {
-    "title": "Theme Template",
-    "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/theme-template/master/logo.png",
+    "title": "YouTube Demo Theme",
+    "logo": "https://github.com/doubled1c3/youtube-demo-theme/blob/master/logo.png",
     "categories": [
       "theme"
     ],
@@ -24,12 +24,12 @@
     "plugin"
   ],
   "contributors": [
-    "Author Name"
+    "Sam Harper-Pittam"
   ],
   "bugs": {
-    "url": "https://github.com/ark-ecosystem-desktop-plugins/theme-template/issues"
+    "url": "https://github.com/doubled1c3/youtube-demo-theme/issues"
   },
-  "homepage": "https://github.com/ark-ecosystem-desktop-plugins/theme-template#readme",
+  "homepage": "https://github.com/doubled1c3/youtube-demo-theme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ark-ecosystem-desktop-plugins/theme-template.git"
