@@ -7,7 +7,7 @@
   "license": "MIT",
   "desktop-wallet": {
     "title": "YouTube Demo Theme",
-    "logo": "https://github.com/doubled1c3/youtube-demo-theme/blob/master/logo.png",
+    "logo": "https://raw.githubusercontent.com/doubled1c3/youtube-demo-theme/master/logo.png",
     "categories": [
       "theme"
     ],
